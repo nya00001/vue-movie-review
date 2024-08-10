@@ -49,7 +49,7 @@ export default {
 </script>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap'); /* Movie-themed font */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap'); 
 
 .container {
   max-width: 800px;
