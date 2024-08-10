@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-  baseURL: 'http://localhost:1337/api', 
+  baseURL: 'https://deserving-egg-9a8da5f25f.strapiapp.com/api', 
   headers: {
     Accept: 'application/json',
     'Content-Type': 'application/json',
